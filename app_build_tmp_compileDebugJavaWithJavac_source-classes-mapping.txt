@@ -1,0 +1,32 @@
+com/example/floresapp/databinding/FragmentHomeBinding.java
+ com.example.floresapp.databinding.FragmentHomeBinding
+com/example/floresapp/ui/dashboard/DashboardViewModel.java
+ com.example.floresapp.ui.dashboard.DashboardViewModel
+com/example/floresapp/ui/notifications/NotificationsViewModel.java
+ com.example.floresapp.ui.notifications.NotificationsViewModel
+com/example/floresapp/ui/home/HomeViewModel.java
+ com.example.floresapp.ui.home.HomeViewModel
+com/example/floresapp/databinding/ActivitySplashscreenBinding.java
+ com.example.floresapp.databinding.ActivitySplashscreenBinding
+com/example/floresapp/ui/notifications/NotificationsFragment.java
+ com.example.floresapp.ui.notifications.NotificationsFragment
+ com.example.floresapp.ui.notifications.NotificationsFragment$1
+com/example/floresapp/BuildConfig.java
+ com.example.floresapp.BuildConfig
+com/example/floresapp/databinding/FragmentNotificationsBinding.java
+ com.example.floresapp.databinding.FragmentNotificationsBinding
+com/example/floresapp/ui/dashboard/DashboardFragment.java
+ com.example.floresapp.ui.dashboard.DashboardFragment
+ com.example.floresapp.ui.dashboard.DashboardFragment$1
+com/example/floresapp/SplashScreenActivity.java
+ com.example.floresapp.SplashScreenActivity
+ com.example.floresapp.SplashScreenActivity$1
+com/example/floresapp/databinding/ActivityMainBinding.java
+ com.example.floresapp.databinding.ActivityMainBinding
+com/example/floresapp/databinding/FragmentDashboardBinding.java
+ com.example.floresapp.databinding.FragmentDashboardBinding
+com/example/floresapp/ui/home/HomeFragment.java
+ com.example.floresapp.ui.home.HomeFragment
+ com.example.floresapp.ui.home.HomeFragment$1
+com/example/floresapp/MainActivity.java
+ com.example.floresapp.MainActivity

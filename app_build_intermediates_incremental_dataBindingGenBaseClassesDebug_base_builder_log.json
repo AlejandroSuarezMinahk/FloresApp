@@ -1,0 +1,37 @@
+{
+  "dependencies": {},
+  "class_names_log": {
+    "mappings": {
+      "fragment_dashboard": {
+        "qualified_name": "com.example.floresapp.databinding.FragmentDashboardBinding",
+        "module_package": "com.example.floresapp.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_home": {
+        "qualified_name": "com.example.floresapp.databinding.FragmentHomeBinding",
+        "module_package": "com.example.floresapp.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_notifications": {
+        "qualified_name": "com.example.floresapp.databinding.FragmentNotificationsBinding",
+        "module_package": "com.example.floresapp.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "activity_main": {
+        "qualified_name": "com.example.floresapp.databinding.ActivityMainBinding",
+        "module_package": "com.example.floresapp.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "activity_splashscreen": {
+        "qualified_name": "com.example.floresapp.databinding.ActivitySplashscreenBinding",
+        "module_package": "com.example.floresapp.databinding",
+        "variables": {},
+        "implementations": []
+      }
+    }
+  }
+}

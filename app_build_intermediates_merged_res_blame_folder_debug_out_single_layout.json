@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\aleja\\AndroidStudioProjects\\FloresApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\aleja\\AndroidStudioProjects\\FloresApp\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\AndroidStudioProjects\\FloresApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\aleja\\AndroidStudioProjects\\FloresApp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\AndroidStudioProjects\\FloresApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\aleja\\AndroidStudioProjects\\FloresApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\AndroidStudioProjects\\FloresApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splashscreen.xml",
+        "source": "C:\\Users\\aleja\\AndroidStudioProjects\\FloresApp\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\AndroidStudioProjects\\FloresApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\aleja\\AndroidStudioProjects\\FloresApp\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    }
+]
